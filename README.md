@@ -50,5 +50,3 @@ java -cp src/main/java com.ejemplo.ejercicios.Main
 - **problemaH**: Mezcla dos arreglos colocando primero el menor de cada par.
 
 ---
-
-¡Explora el código y aprende sobre recursividad e iteración en Java!
