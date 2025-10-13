@@ -29,6 +29,7 @@ public class Main {
         System.out.println("F Recursivo: " + multiplosRecursiva.multiploRecursivo(arr, 7, 0));        
         System.out.println("G Iterativo: " + java.util.Arrays.toString(MezclarIterativo.mezclarIterativo(arr, arr2)));
         System.out.println("G Recursivo: " + MezclarRecurivo.mezclarRecursivo(arr, arr2, 0, 0));
+        System.out.println("gracias por estar aqui");
 
 
        
